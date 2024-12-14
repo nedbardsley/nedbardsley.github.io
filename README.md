@@ -1,2 +1,1 @@
-# nedbardsley.github.io
-Art objects by Ned Bardsley
+Art Objects by Ned Bardsley
